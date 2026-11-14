@@ -27,4 +27,4 @@ GuideBot/
 Jetson Naono Information:
 Username: nvidia
 Password: nvidia
-IP address: (under Wifi via HKU) 172.29.34.45
+IP address: (under HKU) 10.68.161.181
